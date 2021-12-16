@@ -127,4 +127,4 @@ callServices:
 - url: 'https://findclone.ru/register?phone=+<num>'
   method: 'GET'
   okRes: '"pin_size"'
-  delay: 61
+  delay: 62
